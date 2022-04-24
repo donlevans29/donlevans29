@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on getting a job as a javascript or react.js developer </br>
+🔭 I’m currently building progressive web apps on the cloud using  </br>
 🌱 I’m currently learning algorithms, data structures, problem solving with javascript and react.js</br>
 👯 I’m looking to collaborate on javascript problem solving</br>
 🤔 I’m looking for help with using node.js </br>
