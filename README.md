@@ -1,9 +1,36 @@
-### Hi there 👋
 
-🌱 I’m currently learning algorithms, data structures, problem solving with javascript and react.js</br>
-👯 I’m looking to collaborate on javascript problem solving</br>
-🤔 I’m looking for help with using node.js </br>
-💬 Ask me about solving number sum with javascript </br>
-📫 How to reach me: don@squidux.com </br>
-😄 Pronouns: boss...</br>
-⚡ Fun fact: I visit West Africa every year to adopt cultural customs...</br>
+### Hi there 👋
+I'm an experienced web developer expanding my skills in backend development. </br>
+I'm passionate about leveraging code and modern technology to solve real-world problems. Aspiring to become a tech SaaS entrepreneur and a future tech investor.</br>
+
+💻 Experienced in: Frontend development</br>
+🔍 Currently learning: Backend development</br>
+🚀 Aspiring: Tech SaaS entrepreneur</br>
+🌱 Future goal: Tech investor</br>
+
+       ^
+      / \
+     /___\
+    |=   =|
+    |     |
+    |     |
+    |     |
+   /|##!##|\
+  / |##!##| \
+ /  |##!##|  \
+|  / ^ | ^ \  |
+| /  ( | )  \ |
+|/   ( | )   \|
+    ((   ))
+   ((  :  ))
+   ((  :  ))
+    ((   ))
+     (( ))
+      ( )
+       .
+       .
+       .
+       
+Aspiring Tech SaaS Entrepreneur
+    Future Tech Investor
+
