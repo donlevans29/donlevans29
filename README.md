@@ -7,30 +7,3 @@ I'm passionate about leveraging code and modern technology to solve real-world p
 🔍 Currently learning: Backend development</br>
 🚀 Aspiring: Tech SaaS entrepreneur</br>
 🌱 Future goal: Tech investor</br>
-
-       ^
-      / \
-     /___\
-    |=   =|
-    |     |
-    |     |
-    |     |
-   /|##!##|\
-  / |##!##| \
- /  |##!##|  \
-|  / ^ | ^ \  |
-| /  ( | )  \ |
-|/   ( | )   \|
-    ((   ))
-   ((  :  ))
-   ((  :  ))
-    ((   ))
-     (( ))
-      ( )
-       .
-       .
-       .
-       
-Aspiring Tech SaaS Entrepreneur
-    Future Tech Investor
-
