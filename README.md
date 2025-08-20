@@ -1,8 +1,8 @@
 
 ### Hi there 👋
-I'm an senior serivce desk analyst expanding my career into software. Currently expanding skills and learning about problems at the intersection of finance + Business + Investment data and cybersecurity </br>
+I write programs that solve problems. </br>
 
 💻 Most Experienced Coding With: javascript, React.js </br>
-🔍 Currently learning: Terminal, Bash, Git, Github, Python, Algo's & Data </br>
-🚀 Aspiring: A.I. <-> M/L <-> Blockchain <-> Python <-> </br>
-🌱 Future goal: Open minded </br>
+🔍 Currently Building with: Python </br>
+🚀 Aspiring: A.I. <-> M/L <-> Blockchain <-> Banking <-> </br>
+🌱 Future goal: write a book </br>
