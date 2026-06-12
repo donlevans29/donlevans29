@@ -2,7 +2,7 @@
 # Hi there 👋 I'm Don
 
 🏗️ Enterprise technology specialist with 10+ years solving complex problems through software.  
-💡 I write programs that solve real problems — for clients, for systems, and eventually for the world.
+💡 I write programs that solve real problems for clients, for systems, and eventually for the world.
 
 ## 🛠️ Tech Stack
 - **Most Experienced:** JavaScript, React.js  
