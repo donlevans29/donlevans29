@@ -1,3 +1,3 @@
 
 # Hi there 👋 I'm Don
-🏗️ Calendar App To Help Aligng People and The Plantegary Energy. #React #andriod #ios
+[PUBLISHED]🚀 A Sidereal Time Keeping App To Help Aligng People and The Planteary Rythum. [IOS][ANDRIOID]
